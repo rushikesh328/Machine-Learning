@@ -7,9 +7,11 @@ Financial markets are influenced by a wide range of macroeconomic variables. Acc
 ## Tools & Technologies
 Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 
-## Machine Learning Models: Logistic Regression, Support Vector Machine (SVM)
+## Machine Learning Models: 
+Logistic Regression, Support Vector Machine (SVM)
 
-## Data Preprocessing: Feature scaling, time-series lag creation, technical indicators like RSI and MACD
+## Data Preprocessing: 
+Feature scaling, time-series lag creation, technical indicators like RSI and MACD
 
 ## Key Features
 Integrated macroeconomic indicators such as crude oil, forex rates, and commodity ratios
